@@ -1,0 +1,20 @@
+{
+  "students": [
+    {
+      "id": "cbdb",
+      "name": "Francis Chege",
+      "email": "Francis@gmail.com",
+      "phone": "0712345678",
+      "course": "Software Development",
+      "class": "Software Class"
+    },
+    {
+      "id": "ddee",
+      "name": "Irene Wangui",
+      "email": "Irene@gmail.com",
+      "phone": "0712345678",
+      "course": "Software Development",
+      "class": "Software Class"
+    }
+  ]
+}
